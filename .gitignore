@@ -1,0 +1,13 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.ipr
+*.iml
+out/%       
+
+## File-based project format:
+*.iws
+*.iml%      
+
+deployment
+simple-app-task-def.json 
